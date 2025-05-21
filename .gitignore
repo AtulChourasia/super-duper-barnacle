@@ -1,0 +1,62 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.env
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Streamlit specific
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Data files
+# *.csv
+# *.xlsx
+# *.xls
+# *.parquet
+# *.json
+
+# Logs
+logs/
+*.log
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Temp files
+temp/
+tmp/
+
+# Cache directories
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local config files
+config.local.yaml
+*.local.py

@@ -1,0 +1,6 @@
+Product,Region,"('Sales', 'Q1')","('Sales', 'Q2')","('Sales', 'Q3')","('Sales', 'Q4')","('Expenses', 'Q1')","('Expenses', 'Q2')","('Expenses', 'Q3')","('Expenses', 'Q4')"
+Laptop,North,202,171,566,472,761,513,260,847
+Phone,South,535,800,314,199,408,905,559,956
+Tablet,East,960,120,430,971,869,485,413,660
+Monitor,West,370,714,558,763,443,291,121,574
+Keyboard,Central,206,221,187,230,591,376,352,158
